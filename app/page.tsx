@@ -14,7 +14,7 @@ export default function HomePage() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <Code className="h-6 w-6 text-white" />
-              <span className="text-xl font-bold">Revaildate AI</span>
+              <span className="text-xl font-bold">Revalidate AI</span>
             </div>
             <div className="flex items-center gap-4">
               <Link href="/about" className="text-gray-400 hover:text-white transition-colors">
@@ -143,7 +143,7 @@ export default function HomePage() {
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-2">
               <Code className="h-5 w-5 text-gray-400" />
-              <span className="text-gray-400">© 2024 Revaildate AI</span>
+              <span className="text-gray-400">© 2024 Revalidate AI</span>
             </div>
             <div className="flex items-center gap-4 text-gray-400">
               <span>Developed by Rohit Kumar</span>

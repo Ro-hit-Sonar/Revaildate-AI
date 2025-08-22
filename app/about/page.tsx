@@ -12,7 +12,7 @@ export default function AboutPage() {
           <div className="flex items-center justify-between">
             <Link href="/" className="flex items-center gap-2">
               <Code className="h-6 w-6 text-white" />
-              <span className="text-xl font-bold">Revaildate AI</span>
+              <span className="text-xl font-bold">Revalidate AI</span>
             </Link>
             <div className="flex items-center gap-4">
               <Link href="/">
@@ -43,7 +43,7 @@ export default function AboutPage() {
           <div className="text-center mb-12">
             <h1 className="text-4xl font-bold mb-4">About Revaildate AI</h1>
             <p className="text-xl text-gray-400">
-              Bridging the gap between AI-generated code and production-ready
+              Bridging the gap between AI-generated code and production ready
               software
             </p>
           </div>
@@ -54,7 +54,7 @@ export default function AboutPage() {
               <p>
                 a software developer passionate about solving real-world
                 problems with code. I built Digital Queue as part of my{" "}
-                <strong>"7 Days, 7 Projects"</strong> series on LinkedIn — an
+                <strong>"7 Days, 7 Projects"</strong> series on LinkedIn an
                 initiative where I challenged myself to build a new project
                 every day using modern tools like Next.js and Vercel's v0.
               </p>

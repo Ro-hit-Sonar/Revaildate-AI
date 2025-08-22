@@ -6,9 +6,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Revaildate AI - AI Code Review Tool",
+  title: "Revalidate AI - AI Code Review Tool",
   description: "Get expert feedback on your AI-generated code from a simulated senior developer",
-    generator: 'v0.dev'
+    
 }
 
 export default function RootLayout({
