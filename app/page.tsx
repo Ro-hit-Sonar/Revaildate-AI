@@ -34,9 +34,9 @@ export default function HomePage() {
       <section className="container mx-auto px-4 py-20">
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-8">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400">
               Stop Shipping
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400">
+              <span>
                 {" "}
                 Broken Code
               </span>
